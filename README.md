@@ -1,6 +1,6 @@
 # ARU-AGI Project
 
-**ARU (Autonomous Reactive Universe)** is an engineering architecture for autonomous digital intelligence.  
+**ARU** is an engineering architecture for autonomous digital intelligence.  
 The project is being developed as the foundation for an AGI system based on the new digital paradigm: **HW-code v2 Ghost Logic**.
 
 ---
