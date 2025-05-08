@@ -1,3 +1,36 @@
+<h4>⚙️ How It Works</h4>
+
+<table style="width:100%; border-collapse: collapse; font-size: 0.95rem;">
+  <thead>
+    <tr style="background-color:#111; color:#ffe600;">
+      <th style="padding: 8px; border: 1px solid #333;">Characteristic</th>
+      <th style="padding: 8px; border: 1px solid #333;">Explanation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #333;">Excitability</td>
+      <td style="padding: 8px; border: 1px solid #333;">Memory activates only when triggered by a signal</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #333;">Energy</td>
+      <td style="padding: 8px; border: 1px solid #333;">Each unit has mass, excitation energy, and lifetime</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #333;">Mutability</td>
+      <td style="padding: 8px; border: 1px solid #333;">Memory evolves, weakens, strengthens, merges</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #333;">Associativity</td>
+      <td style="padding: 8px; border: 1px solid #333;">Memories are linked via emotion and meaning</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #333;">Evolution</td>
+      <td style="padding: 8px; border: 1px solid #333;">New links emerge from signal interactions</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 🧭 1.1. ARU Mission and the Will of the Architect
 
 ### 🧬 ARU Mission: Abundance for Humanity
