@@ -1,5 +1,6 @@
 ---
-layout: page
+- layout: page
++ layout: default
 title: "I. Introduction"
 permalink: /sections/I_Introduction.html
 ---
