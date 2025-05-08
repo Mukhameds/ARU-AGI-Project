@@ -1,7 +1,10 @@
 ---
 layout: default
-title: ARU AGI Project
+title: "ARU-AGI Project"
+permalink: /
 ---
+
+# Welcome to the ARU-Project
 
 <p align="center">
   <img src="sections/newlogo.png" width="220" alt="ARU Logo" />
