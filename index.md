@@ -3,7 +3,6 @@ layout: default
 title: "ARU-AGI Project"
 permalink: /
 ---
-
 # Welcome to the ARU-Project
 
 <p align="center">
