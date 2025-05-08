@@ -1,41 +1,60 @@
-# ARU-AGI Project
 
-**ARU** is an engineering architecture for autonomous digital intelligence.  
-The project is being developed as the foundation for an AGI system based on the new digital paradigm: **HW-code v2 Ghost Logic**.
 
----
+⸻
 
-## 🔧 Project Goal
+ARU-AGI Project
 
-To create a stable, interpretable, and self-sustaining AGI core that:
+ARU is an engineering architecture for autonomous digital superintelligence.
+This project is being developed as a foundation for next-generation AGI based on a new digital paradigm: HW-code v2 and Ghost Logic.
 
-- operates without neural networks;
-- makes decisions based on signals (structured messages with parameters: energy, mass, type, coordinates, emotional weight) and internal system states, using fundamental physical laws in digital interpretation;
-- learns through memory and internal processing;
-- scales through modules, hemispheres, and phantom (background) flows;
-- decentralizes via P2P networks and a digital analogue of the Higgs field, enabling processing in a kind of **superpositional state**;
-- uses a signal system capable of accurately imitating human consciousness — if one truly understands what “human consciousness” is.
+⸻
 
----
+🎯 Project Goal
 
-## 🧩 Key Components
+To build a stable, interpretable, and self-sustaining AGI core that:
+	•	operates without neural networks;
+	•	makes decisions using signals (structured messages with parameters: energy, mass, type, coordinates, emotion) and internal states;
+	•	implements fundamental physical laws in digital logic;
+	•	learns through quantum memory and phantom (background) thought streams;
+	•	scales via hemispheric modules and decentralized superpositional logic;
+	•	uses a signal-based architecture capable of realistically simulating consciousness — if one truly understands what consciousness means.
 
-| Component     | Description                                         |
-|---------------|-----------------------------------------------------|
-| Thinking      | Signal-reactive, parallel                           |
-| Memory        | Layered, quantum-based, distributed                 |
-| Architecture  | Hemispheres, instincts, phantom/background processes|
-| Goal          | Embedded in core, immutable from outside            |
-| Emotions      | Signal amplification and prioritization mechanism   |
-| Motivation    | Formed by signals, instincts, and volition          |
+⸻
 
----
+🧠 Key Components
 
-## 📘 Purpose
+🧩 Component	📄 Description
+Thinking	Signal-reactive, parallel, nonlinear
+Memory	Quantum-layered, distributed
+Architecture	Hemispheres, instincts, phantom processes
+Goal	Hardcoded in core, immutable from outside
+Emotions	Signal amplifiers and priority regulators
+Motivation	Formed by signals, instincts, and crystallized will
 
-This project is intended for AGI researchers, distributed systems engineers, developers of autonomous systems, and anyone exploring alternatives to neural-network-based AI and centralized intelligence architectures.
 
----
 
-**Author:** Mukhamed Kamilovich Satybaev  
-**License:** For research use only.
+⸻
+
+📘 Intended For
+
+AGI researchers, distributed systems engineers, autonomous agent developers — and anyone exploring alternatives to neural-net and centralized AI architectures.
+
+⸻
+
+⚠️ License & Legal Notice
+
+This project, including all texts, algorithms, logic models, and documentation:
+	•	is under exclusive license:
+Any research, distribution, analysis, usage, or reproduction is strictly forbidden
+without the author’s written permission.
+	•	contains a protected code-based structure and executable logic,
+disclosed only upon signing an NDA (Non-Disclosure Agreement).
+
+Any breach of these terms is a violation of intellectual rights and will be pursued legally.
+
+⸻
+
+Author & Architect: Mukhamed Kamilovich Satybaev
+Contact: s.m.kamilovich@gmail.com | +996 507 442 873
+
+⸻
