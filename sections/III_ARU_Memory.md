@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I. Introduction"
+permalink: /sections/I_Introduction.html
+---
+
 ## 🧠 III. ARU Memory
 
 ### 🧬 3.1. Memory as Reaction, Not Data Storage
