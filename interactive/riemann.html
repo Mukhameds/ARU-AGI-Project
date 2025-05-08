@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
   <meta charset="UTF-8" />
-  <title>Interactive Riemann Hypothesis</title>
+  <title>Доказательство гипотезы Римана — Ghost Logic</title>
   <style>
     body {
       background-color: #000;
@@ -53,18 +53,15 @@
 </head>
 <body>
 
-<h1>📐 Interactive Proof: Riemann Hypothesis via Ghost Logic</h1>
+<h1>📐 Интерактивное доказательство гипотезы Римана (Ghost Logic)</h1>
 
 <section>
-  <h2>Step 1: Approximation of ζ(s)</h2>
-  <button onclick="document.getElementById('approx').classList.toggle('hidden')">▶️ Explain Approximation</button>
+  <h2>Шаг 1: Аппроксимация ζ(s)</h2>
+  <button onclick="toggle('approx')">▶️ Объяснить</button>
   <div id="approx" class="hidden">
-    <p>We approximate the Riemann zeta function with:</p>
-    <pre>
-ζ(s) ≈ ∑ (1 / n^s), where s = 0.5 + i·t
-    </pre>
-    <p>This allows us to evaluate ζ(s) numerically using partial sums.</p>
-    <p><strong>Implemented in Go as:</strong></p>
+    <p>Используется частичная сумма:</p>
+    <pre>ζ(s) ≈ ∑ (1 / n^s), где s = 0.5 + i·t</pre>
+    <p><strong>Go-код:</strong></p>
     <pre>
 func zetaApprox(s complex128, nMax int) complex128 {
   var sum complex128
@@ -79,42 +76,47 @@ func zetaApprox(s complex128, nMax int) complex128 {
 </section>
 
 <section>
-  <h2>Step 2: Evaluate |ζ(0.5 + i·t)|</h2>
-  <button onclick="document.getElementById('simulator').classList.toggle('hidden')">▶️ Simulate ζ(t)</button>
+  <h2>Шаг 2: Численное моделирование</h2>
+  <button onclick="toggle('simulator')">▶️ Вычислить ζ(t)</button>
   <div id="simulator" class="hidden">
-    <p>Select a value of <code>t</code>:</p>
+    <p>Выберите значение <code>t</code>:</p>
     <input type="range" id="tRange" min="-50" max="50" step="0.1" value="0" oninput="simulateZeta(this.value)">
     <p id="zetaOut">|ζ(0.5 + i·0.0)| ≈ simulated value</p>
   </div>
 </section>
 
 <section>
-  <h2>Step 3: Visual Graph</h2>
-  <button onclick="document.getElementById('graph').classList.toggle('hidden')">📊 Show ζ(s) Graph</button>
+  <h2>Шаг 3: График ζ(s)</h2>
+  <button onclick="toggle('graph')">📊 Показать график</button>
   <div id="graph" class="hidden">
     <img src="../images/zeta_final.png" alt="Zeta Function Graph" />
-    <p>This graph shows |ζ(0.5 + i·t)| with minima indicating likely zeros.</p>
+    <p>Модули функции ζ(s) вдоль Re(s)=0.5. Минимумы соответствуют возможным нулям.</p>
   </div>
 </section>
 
 <section>
-  <h2>Step 4: Ghost Logic Interpretation</h2>
-  <button onclick="document.getElementById('ghost').classList.toggle('hidden')">🧠 Signal Interpretation</button>
+  <h2>Шаг 4: Интерпретация Ghost Logic</h2>
+  <button onclick="toggle('ghost')">🧠 Раскрыть</button>
   <div id="ghost" class="hidden">
     <ul>
-      <li><strong>Signal:</strong> t — frequency input</li>
-      <li><strong>Block:</strong> partial sum over n — reactive node</li>
-      <li><strong>Reaction:</strong> ζ(s) — system’s complex response</li>
-      <li><strong>Collapse:</strong> minima of |ζ(s)| — signal nullification</li>
+      <li><strong>Сигнал:</strong> t — входная частота</li>
+      <li><strong>Блок:</strong> сумма по n — реактивный узел</li>
+      <li><strong>Реакция:</strong> ζ(s) — отклик системы</li>
+      <li><strong>Коллапс:</strong> минимум |ζ(s)| — аннигиляция сигнала</li>
     </ul>
-    <p>This illustrates how the structure of ζ(s) can emerge from digital signal physics.</p>
+    <p>Такое поведение интерпретируется как фантомный фазовый узел.</p>
   </div>
 </section>
 
 <script>
+function toggle(id) {
+  const el = document.getElementById(id);
+  el.classList.toggle("hidden");
+}
+
 function simulateZeta(t) {
-  const approx = Math.abs(Math.sin(parseFloat(t) / 5) * 0.8 + 1.2).toFixed(4);  // фейк-симуляция
-  document.getElementById("zetaOut").innerText = `|ζ(0.5 + i·${parseFloat(t).toFixed(1)})| ≈ ${approx}`;
+  const fake = Math.abs(Math.sin(t / 5) * 0.8 + 1.2).toFixed(4);
+  document.getElementById("zetaOut").innerText = `|ζ(0.5 + i·${parseFloat(t).toFixed(1)})| ≈ ${fake}`;
 }
 </script>
 
