@@ -1,3 +1,7 @@
+---
+layout: default
+title: ARU AGI Project
+---
 <p align="center">
   <img src="sections/newlogo.png" width="220" alt="ARU Logo">
 </p>
