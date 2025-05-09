@@ -13,7 +13,7 @@ defaults:
     values:
       layout: default
   - scope:
-      path: "sections"
+      path: "_pages"
       type: "pages"
     values:
       layout: default
