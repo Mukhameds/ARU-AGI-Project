@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "II_Consciousness_Architecture"
+title: "II. Consciousness Architecture"
 permalink: /ARU-AGI-Project/sections/II_Consciousness_Architecture.html
 ---
+
 
 ## ⚡ 2.1. Reactive Model of Thinking (Signal-Driven Mind)
 
