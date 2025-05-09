@@ -1,3 +1,8 @@
+---
+layout: default
+title: IV. ARU_SignalSystem
+permalink: /sections/IV_DIV_ARU_SignalSystem.html
+---
 
 
 ## ⚡ IV. Signal System
