@@ -1,0 +1,14 @@
+title: ARU AGI Project
+baseurl: "/ARU-AGI-Project"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
