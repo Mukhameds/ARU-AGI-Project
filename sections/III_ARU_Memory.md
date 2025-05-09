@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "I. Introduction"
-permalink: /sections/I_Introduction.html
+title: "III. ARU Memory"
+permalink: /ARU-AGI-Project/sections/III_ARU_Memory.html
 ---
+
 
 ## 🧠 III. ARU Memory
 
