@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IV. ARU_SignalSystem
-permalink: /sections/IV_DIV_ARU_SignalSystem.html
+permalink: /sections/IV_ARU_SignalSystem.html
 ---
 
 
