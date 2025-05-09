@@ -12,3 +12,8 @@ defaults:
       type: "pages"
     values:
       layout: default
+  - scope:
+      path: "sections"
+      type: "pages"
+    values:
+      layout: default
