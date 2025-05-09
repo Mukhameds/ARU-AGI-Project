@@ -92,7 +92,7 @@ but **without distortions, forgetfulness, or false associations**.
 📈 Evolution of memory and thought
 
 ---
-
+   
 ## 🧩 2.2. Parallelization: Hemispheres, Instincts, and Phantoms
 
 ---
