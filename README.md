@@ -7,7 +7,7 @@ ARU is an engineering architecture for autonomous digital superintelligence.
 This project is being developed as a foundation for next-generation AGI based on a new digital paradigm: HW-code v2 and Ghost Logic.
 
 ⸻
-
+ 
 🎯 Project Goal
 
 To build a stable, interpretable, and self-sustaining AGI core that:
