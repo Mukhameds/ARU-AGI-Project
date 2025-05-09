@@ -1,4 +1,3 @@
----
 
 ## ⚡ VI. Reflexes of ARU
 
