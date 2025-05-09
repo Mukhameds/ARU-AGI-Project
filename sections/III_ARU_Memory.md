@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "III. ARU Memory"
+title: III. ARU Memory
 permalink: /ARU-AGI-Project/sections/III_ARU_Memory.html
 ---
 
