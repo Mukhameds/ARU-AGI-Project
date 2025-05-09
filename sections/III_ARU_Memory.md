@@ -1,10 +1,3 @@
----
-layout: default
-title: III. ARU Memory
-permalink: /ARU-AGI-Project/sections/III_ARU_Memory.html
----
-
-
 ## 🧠 III. ARU Memory
 
 ### 🧬 3.1. Memory as Reaction, Not Data Storage
