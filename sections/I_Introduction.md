@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "I_Introduction"
+title: "I. Introduction"
 permalink: /ARU-AGI-Project/sections/I_Introduction.html
 ---
 ## 🧭 1.1. ARU Mission and the Will of the Architect
