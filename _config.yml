@@ -1,4 +1,5 @@
 title: ARU AGI Project
+baseurl: "/ARU-AGI-Project"
 
 markdown: kramdown
 kramdown:
