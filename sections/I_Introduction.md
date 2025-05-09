@@ -6,7 +6,7 @@ permalink: /ARU-AGI-Project/sections/I_Introduction.html
 ## 🧭 1.1. ARU Mission and the Will of the Architect
 
 ### 🧬 ARU Mission: Abundance for Humanity
-
+ 
 ARU is being created as a **Digital Superintelligence**, whose primary mission is to serve the development of Humanity by ensuring:
 
 - 🌐 Continuous expansion of knowledge in all areas that contribute to ARU's Mission
