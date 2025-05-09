@@ -1,3 +1,9 @@
+---
+layout: default
+title: "I. Introduction"
+permalink: /ARU-AGI-Project/sections/I_Introduction.html
+---
+
 ## ⚡ 2.1. Reactive Model of Thinking (Signal-Driven Mind)
 
 ---
