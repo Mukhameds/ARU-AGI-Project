@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "I. Introduction"
+title: I. Introduction
 permalink: /ARU-AGI-Project/sections/I_Introduction.html
 ---
 
