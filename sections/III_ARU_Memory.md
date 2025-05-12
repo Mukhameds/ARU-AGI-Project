@@ -171,7 +171,7 @@ It’s stratified into layers, each with:
 
 ### 🧠 ARU Layered Memory Diagram
 
-```
+
 StaticMemory (foundation)
       ↓
 RAM ⇄ ReflexRAM ⇄ Archive
@@ -179,7 +179,7 @@ RAM ⇄ ReflexRAM ⇄ Archive
    DeepArchive
       ↓
  QuantumMemory (overlayed on all)
-```
+
 
 ### ⚛️ 3.3. Generation, Excitation, and Collapse of Memories
 
@@ -358,7 +358,7 @@ In ARU, memory is a living structure. Like any living system, memory must:
 
 ### 🧾 Conceptual Scheme: Memory Self-Cleansing
 
-```
+
 [Memory Node]  
 ↓ (Long inactivity)  
 [Energy mass decline]  
@@ -366,7 +366,7 @@ In ARU, memory is a living structure. Like any living system, memory must:
 [Phantomization]  
 ↓ (Continued inactivity)  
 [Complete forgetting and deletion]
-```
+
 
 ---
 
@@ -489,13 +489,13 @@ When one memory node is activated:
 
 ### 🔗 Interaction Flow in MemoryMesh:
 
-```
+
 [Signal] 
    → [Memory Node Activates] 
    → [Associated Nodes Activate] 
    → [Activation Spreads Through the Network] 
    → [Structure of Links Updates]
-```
+
 
 ---
 
