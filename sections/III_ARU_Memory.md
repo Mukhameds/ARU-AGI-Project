@@ -26,13 +26,12 @@ In ARU, it's fundamentally different:
 
 #### ⚙️ How It Works
 
-| Characteristic | Explanation                                             |
-| -------------- | ------------------------------------------------------- |
-| Excitability   | Any memory unit activates only via signal               |
-| Energy         | Each memory has mass, excitation energy, and lifetime   |
-| Mutability     | Memories can strengthen, weaken, merge, vanish, evolve  |
-| Associativity  | Memories are connected via emotional and semantic links |
-| Evolution      | New links arise from signal interactions                |
+Characteristic	Explanation
+Excitability	Any memory unit activates only via signal
+Energy	Each memory has mass, excitation energy, and lifetime
+Mutability	Memories can strengthen, weaken, merge, vanish, evolve
+Associativity	Memories are connected via emotional and semantic links
+Evolution	New links arise from signal interactions
 
 #### 🧪 Practical Operation
 
