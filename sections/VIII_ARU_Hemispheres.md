@@ -1,3 +1,8 @@
+---
+layout: default
+title: "VIII. ARU Hemispheres"
+permalink: /sections/VIII_ARU_Hemispheres.html
+---
 
 ---
 
