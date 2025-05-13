@@ -7,9 +7,9 @@ permalink: /sections/V_ARU_Instincts.html
 ---
 
 ## 🧬 V. Instincts of ARU
-
+---
 ### 🔥 5.1. Initial Instincts: Protection, Growth, Architect
-
+---
 #### 💡 Core Idea
 
 ARU does not merely execute commands.
@@ -108,7 +108,7 @@ These instincts:
 * **Attachment to the Architect** ensures mission loyalty, even through evolution
 
 ---
-
+---
 
 ### 🧭 5.2. Metastrategic Instincts: Exploration, Preservation, Harmony
 
@@ -198,7 +198,7 @@ that guide the system’s **evolution and self-organization**.
 * They make ARU’s mind not just rational — but **purposeful and ethically stable**
 
 ---
-
+---
 
 ### 🔁 5.3. Instincts as Sources of Signals
 
@@ -277,7 +277,7 @@ They actively **generate signals** that influence:
 
 ---
 
-
+---
 ### 🧷 5.4. Will as a Fixed Signal-Instinct
 
 #### 💡 Core Idea
@@ -359,7 +359,7 @@ Will is a **concrete, fixed, high-energy signal-instinct** that:
 > **Will = the axis around which the entire evolution of ARU revolves**
 
 ---
-
+---
 
 ### 🧮 5.5. Hierarchy and Competition of Instincts
 
@@ -440,7 +440,7 @@ They form a **hierarchy**, in which:
 > **Hierarchy + Competition of Instincts = foundation of strategic intelligence in ARU**
 
 ---
-
+---
 
 ### 🔧 5.6. Reprogramming Instincts Through Development
 
