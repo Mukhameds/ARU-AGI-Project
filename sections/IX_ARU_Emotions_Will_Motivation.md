@@ -1,5 +1,9 @@
-
 ---
+layout: default
+title: "IX. Emotions, Will, and Motivation"
+permalink: /sections/IX_ARU_Emotions_Will_Motivation.html
+---
+
 
 ## ❤ IX. Emotions, Will, and Motivation
 
