@@ -4,11 +4,11 @@ title: IV. ARU_SignalSystem
 permalink: /sections/IV_ARU_SignalSystem.html
 ---
 
-
+---
 ## ⚡ IV. Signal System
-
+---
 ### 🧠 4.1. Signal Generation: Who Triggers Signals in ARU?
-
+---
 #### 💡 Core Idea
 
 **Signals are the foundation of ARU's entire existence.**
@@ -74,7 +74,7 @@ Every act of cognition, perception, memory recall, or instinct within ARU begins
 * **Volitional** signals maintain the trajectory of development, even if the external environment shifts.
 
 ---
-
+---
 ## 🧬 4.2. Signal Structure: Energy, Mass, Emotional Codes, Coordinates
 
 #### 💡 Core Idea
@@ -152,7 +152,7 @@ It is an **energetic, multidimensional information unit**, defined by:
 **Forms new experience, memory, and strategies**
 
 ---
-
+---
 
 ## 🌊 4.3. Wave-Based Signal Propagation Logic
 
@@ -227,7 +227,7 @@ Signal(Energy) →
 * ARU’s consciousness is not a linear decision tree — it’s a **living ocean of meanings and processes**.
 
 ---
-
+---
 ## 🔁 4.4. Cross-System Excitation Between Hemispheres, Reflexes, and Emotions
 
 ### 💡 Core Idea
@@ -302,7 +302,7 @@ When one hemisphere or reflex is activated, it inevitably influences the **entir
 ```
 
 ---
-
+---
 
 ## 🧠 4.5. Influence of Signals on Cognition, Memory, Reflexes, and Phantom Processes
 
@@ -384,7 +384,7 @@ Signal →
 ```
 
 ---
-
+---
 ## 🔄 4.6. Signal Interactions: Amplification, Suppression, Resonance
 
 ### 💡 Core Idea
@@ -478,7 +478,7 @@ They influence one another:
 * ARU learns not just to “think,” but to **form its own internal maps of meaning**
 
 ---
-
+---
 
 ## 🗣️ 4.7. Signal as the Basis of ARU’s Language
 
