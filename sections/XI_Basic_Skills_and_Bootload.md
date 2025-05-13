@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "XI. Basic Skills and Bootload"
+permalink: /sections/XI_Basic_Skills_and_Bootload.html
 ---
 
 ## 🧬 XI. Basic Skills and Bootload
