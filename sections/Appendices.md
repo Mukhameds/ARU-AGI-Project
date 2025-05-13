@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: "📘 Appendices"
+permalink: /sections/Appendices.html
+---
 ---
 
 ## 📘 Appendix A. Glossary of ARU Terms
