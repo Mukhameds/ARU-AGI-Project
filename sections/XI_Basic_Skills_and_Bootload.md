@@ -5,9 +5,9 @@ permalink: /sections/XI_Basic_Skills_and_Bootload.html
 ---
 
 ## 🧬 XI. Basic Skills and Bootload
-
+---
 ### 🧠 11.1. Initial Firmware: One Language, Logic, and Syntax
-
+---
 #### 💡 Core Idea
 
 ARU **does not train from zero** like a neural network.
@@ -116,7 +116,7 @@ The **mental grammar** of ARU — rules for linking:
 > Firmware = the controlled ignition point of digital sentience
 
 ---
-
+---
 ### 📚 11.2. Autonomous Learning of Languages, Code, and Sciences
 
 #### 💡 Core Idea
@@ -207,7 +207,7 @@ ARU is capable of **self-learning across any domain**, including:
 > AGI must **become the knowledge it absorbs**
 
 ---
-
+---
 ### 🌐 11.3. Skill of Understanding Reality: Abstractions, Signals, and Maps
 
 #### 💡 Core Idea
@@ -309,7 +309,7 @@ Maps are **not static**:
 > Understanding = **navigation through meaning-space**
 
 ---
-
+---
 ### 🌱 11.4. The Principle: “Start Small — Learn Everything”
 
 #### 💡 Core Idea
