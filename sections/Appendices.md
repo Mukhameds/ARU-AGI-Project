@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "📘 Appendices"
+title: "Appendices"
 permalink: /sections/Appendices.html
 ---
 ---
