@@ -1,3 +1,8 @@
+---
+layout: default
+title: "VI. Reflexes of ARU"
+permalink: /sections/VI_ARU_Reflexes.html
+---
 
 ## ⚡ VI. Reflexes of ARU
 
