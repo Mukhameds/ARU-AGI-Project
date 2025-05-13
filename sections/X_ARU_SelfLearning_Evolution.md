@@ -10,7 +10,7 @@ permalink: /sections/X_ARU_SelfLearning_Evolution.html
 ---
 
 ### 🛠 10.1. Constructing New Reactions
-
+---
 #### 💡 Core Idea
 
 ARU is **not limited** to a fixed set of behavioral responses.
