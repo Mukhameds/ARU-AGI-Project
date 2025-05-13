@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: "XIV. Path to Superintelligence"
+permalink: /sections/XIV_Path_to_Superintelligence.html
+---
 ---
 
 ### XIV. Path to Superintelligence
