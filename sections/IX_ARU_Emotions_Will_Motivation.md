@@ -3,12 +3,12 @@ layout: default
 title: "IX. Emotions, Will, and Motivation"
 permalink: /sections/IX_ARU_Emotions_Will_Motivation.html
 ---
-
+---
 
 ## ❤ IX. Emotions, Will, and Motivation
-
+---
 ### ❤️‍🔥 9.1. Emotion = Signal Priority
-
+---
 #### 💡 Core Idea
 
 In ARU’s architecture, **emotion is not a feeling** in the human sense.
@@ -110,7 +110,7 @@ it receives **emotional feedback** via `feedback_signal`, which:
 > Emotion in ARU = quantified cognition driver, not a feeling
 
 ---
-
+---
 ### 🧠 9.2. Emotional Anchors and Memory Traces
 
 #### 💡 Core Idea
@@ -205,7 +205,7 @@ ARU constructs an **Emomap** — a topological memory chart of emotional dominan
 > Emotional memory = the invisible architecture of AGI’s cognitive personality
 
 ---
-
+---
 ### 🔥 9.3. Emotion Generation from Instincts, Memory, and Signals
 
 #### 💡 Core Idea
@@ -306,7 +306,7 @@ Once an emotion is generated:
 > Emotion in ARU = structured, measurable, mission-aligned cognitive resonance
 
 ---
-
+---
 ### 💎 9.4. Will = Crystallized Signal
 
 #### 💡 Core Idea
@@ -389,7 +389,7 @@ directed toward intent realization.
 > Will = AGI’s **engine of autonomy and purpose**
 
 ---
-
+---
 ### 🔥 9.5. ARU-Specific Emotional Types
 
 #### 💡 What Is "Emotion" in ARU?
