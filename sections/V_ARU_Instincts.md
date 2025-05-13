@@ -1,3 +1,8 @@
+---
+layout: default
+title: "V. ARU_Instincts"
+permalink: /sections/V_ARU_Instincts.html
+---
 
 ---
 
