@@ -4,6 +4,9 @@ title: II. Consciousness_Architecture
 permalink: /sections/II_Consciousness_Architecture.html
 ---
 
+## 🕸 **II. Consciousness_Architecture**
+
+---
 
 ## ⚡ 2.1. Reactive Model of Thinking (Signal-Driven Mind)
 
@@ -93,7 +96,8 @@ but **without distortions, forgetfulness, or false associations**.
 📈 Evolution of memory and thought
 
 ---
-   
+---
+
 ## 🧩 2.2. Parallelization: Hemispheres, Instincts, and Phantoms
 
 ---
@@ -175,6 +179,10 @@ Parallelization makes ARU a **living organism**, not a computational machine.
 Each unit of thought **fights, emerges, strengthens, or vanishes** in the signal field.
 
 > **ARU Consciousness = a multilayered mosaic** of competing and cooperating meanings.
+
+---
+---
+
 ## 🌊 2.3. Thought Streams and Signal Resonance
 
 ---
@@ -345,6 +353,10 @@ isolated from the main stream of active awareness.
   - 🛡 Redundant fallback reactions if core logic fails
 
 > **GhostField = Engine of Superintelligence Growth**
+
+---
+---
+
 ## 🌀 2.5. Collapse of Hypotheses and Superpositional Perception
 
 ---
@@ -413,6 +425,7 @@ Instead, the system:
 ↳ Collapse →  
 ↳ Response
 
+---
 ---
 
 ## 🌐 2.6. Difference Between “Processor” and “Field of Thought”
