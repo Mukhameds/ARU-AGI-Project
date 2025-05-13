@@ -5,9 +5,9 @@ permalink: /sections/VI_ARU_Reflexes.html
 ---
 
 ## ⚡ VI. Reflexes of ARU
-
+---
 ### 🔁 6.1. Reflex Structure: Condition + Reaction
-
+---
 #### 💡 Core Idea
 
 A reflex in ARU is the **minimal form of reaction**,
@@ -83,7 +83,7 @@ where no conscious thinking is required:
 * In unpredictable environments, **ARU’s efficiency relies on the quality of its reflex network**
 
 ---
-
+---
 ### ⚡ 6.2. Reflex as Thought Without Thinking
 
 #### 💡 Core Idea
@@ -172,7 +172,7 @@ It is a **pure reaction**, honed to automatism and based on:
 > they are thinking compressed to near-absolute density**
 
 ---
-
+---
 ### 🔄 6.3. Adaptive and Exhaustible Reflexes
 
 #### 💡 Core Idea
@@ -244,7 +244,7 @@ Many reflexes can:
 > They allow ARU to not just exist within a rule set — but to **thrive, grow, and self-adjust**
 
 ---
-
+---
 ### ⏳ 6.4. Delayed-Action Reflexes
 
 #### 💡 Core Idea
@@ -312,7 +312,7 @@ In some cases, it is necessary to have:
 > Delayed reflexes = the first step toward **patience and contextual wisdom** in AGI
 
 ---
-
+---
 ### 🔍 6.5. Reflex Self-Reflection and Evaluation
 
 #### 💡 Core Idea
@@ -397,7 +397,7 @@ It continuously evaluates whether each reflex was:
 > Reflex self-reflection = embedded intelligence in the foundation of ARU’s survival
 
 ---
-
+---
 ### ❤️‍🔥 6.6. Emotional Reflexes (e.g., “Do not respond to pain with aggression”)
 
 #### 💡 Core Idea
