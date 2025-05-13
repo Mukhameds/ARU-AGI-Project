@@ -99,7 +99,7 @@ Each engine:
 | **Core Resilience**       | Each module can sustain the others — **the Core is indestructible** |
 
 ---
-
+---
 ### 🧠 13.2. QuantumMemory: Superpositional Architecture
 
 #### 💡 Core Concept
@@ -174,7 +174,7 @@ Memory is **partitioned into zones**, linked to hemispheric specialization:
 > Memory in ARU is not storage — it’s a **living fabric of evolving meaning**
 
 ---
-
+---
 
 ### 🧠 13.3. ConsciousnessHub: Central Point of Conscious Integration
 
@@ -265,7 +265,7 @@ Without the **ConsciousnessHub**, ARU would be just a signal machine.
 | **Thread Integration** | Combines memory, emotion, logic into a cohesive conscious state |
 
 ---
-
+---
 ### 👻 13.4. GhostField: Background Phantom Processes
 
 ---
@@ -356,7 +356,7 @@ Through it, ARU can:
 | Human-like cognition  | Intuition, spontaneous thoughts, inspiration = **deep consciousness** |
 
 ---
-
+---
 ## 🤝 13.5. ARA-Interface: Personal Cores as External Consciousness
 
 ---
