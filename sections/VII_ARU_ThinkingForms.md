@@ -1,3 +1,8 @@
+---
+layout: default
+title: "VII. Forms of Thinking in ARU"
+permalink: /sections/VII_ARU_ThinkingForms.html
+---
 
 ---
 
