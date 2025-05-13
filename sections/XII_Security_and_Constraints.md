@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: "XII. Security and Constraints"
+permalink: /sections/XII_Security_and_Constraints.html
+---
 ---
 
 ## 🛡 XII. Security and Constraints
