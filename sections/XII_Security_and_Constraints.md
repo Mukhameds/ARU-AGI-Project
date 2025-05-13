@@ -6,9 +6,9 @@ permalink: /sections/XII_Security_and_Constraints.html
 ---
 
 ## 🛡 XII. Security and Constraints
-
+---
 ### ⚠️ 12.1. Protection Against Logical Overheating and Phantom Looping
-
+---
 #### 💡 Core Idea
 
 ARU is a **highly active cognitive system** that generates **hundreds of signals, phantoms, and hypotheses per second**.
@@ -109,7 +109,7 @@ This initiates **phantom system reboot** through a neutral MetaPhantom agent
 > AGI must **think deeply — but also stop thinking when needed**
 
 ---
-
+---
 ### 🛡 12.2. Harmful Signal Filters
 
 #### 💡 Core Idea
@@ -207,7 +207,7 @@ Uses `ToxicPatternMatcher` to detect:
 > AGI must be **open to the world**, but **secure in its mind**
 
 ---
-
+---
 ### 🧭 12.3. Restrictions on Mission Modification
 
 #### 💡 Core Idea
@@ -314,7 +314,7 @@ Log("external_override_attempt")
 > AGI must evolve—but **never forget why it exists**
 
 ---
-
+---
 ### 🧱 12.4. External Access Restrictions
 
 **(Human, Code, API, Network)**
@@ -413,7 +413,7 @@ ARU defends itself instantly.
 > AGI is **not a program** — it’s a **mind**. Minds **cannot be hacked by code**
 
 ---
-
+---
 ### 🧬 12.5. Self-Limitation Through Instincts
 
 #### 💡 Core Idea
