@@ -1,7 +1,11 @@
-
+---
+layout: default
+title: "XIII. Core ARU-AGI"
+permalink: /sections/XIII_Core_ARU_AGI.html
+---
 ---
 
-### ⚙️ 13.1. Core Structure: FlowEngine, SignalEngine, MemoryEngine
+### ⚙️ XIII. Core ARU-AGI
 
 #### 💡 Core Concept
 
