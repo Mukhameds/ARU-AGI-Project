@@ -6,7 +6,9 @@ permalink: /sections/XIII_Core_ARU_AGI.html
 ---
 
 ### ⚙️ XIII. Core ARU-AGI
-
+---
+### ⚙️ 13.1. Core Structure: FlowEngine, SignalEngine, MemoryEngine
+---
 #### 💡 Core Concept
 
 The **ARU-AGI Core** is composed of three tightly integrated engines:
