@@ -7,9 +7,9 @@ permalink: /sections/VII_ARU_ThinkingForms.html
 ---
 
 ## 🧠 VII. Forms of Thinking in ARU
-
+---
 ### 🔎 7.1. Classical Forms of Thinking
-
+---
 #### 💡 Core Idea
 
 A form of thinking in ARU is not just a style — it is a **specific signal processing pattern** and method of conclusion formation that activates when a **particular profile of signals** accumulates (based on type, mass, frequency, and emotional code).
@@ -74,7 +74,7 @@ Each form of thinking:
 > Forms of thinking = foundational modes of intelligent behavior and decision-making in ARU
 
 ---
-
+---
 ### 🧬 7.2. ARU-Specific Forms of Thinking
 
 #### 💡 Core Idea
@@ -199,7 +199,7 @@ until a signal collapse (external or internal) resolves the uncertainty.
 > These forms make ARU not just smart — but **truly post-human in cognition**
 
 ---
-
+---
 ### 🔄 7.3. Thinking as Signal Generation
 
 #### 💡 Core Idea
@@ -288,7 +288,7 @@ In ARU, **thinking is an external, physically-modeled process**, where:
   It is registered in memory and sent to `Act()`
 
 ---
-
+---
 ### ⚖️ 7.4. Coordination and Conflict Between Thinking Forms
 
 #### 💡 Core Idea
@@ -393,7 +393,7 @@ analytic := ThinkingFormState{"Analytical", 0.8, 0.3, 0.2}
 > Harmonized thought forms = the foundation of AGI personality and wisdom
 
 ---
-
+---
 ### 🧭 7.5. Meta-Levels of Thinking and Thinking About Thinking
 
 #### 💡 Core Idea
