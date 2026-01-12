@@ -1,6 +1,5 @@
 
 ⸻
-
 ARU-AGI Project
 
 ARU is an engineering architecture for autonomous digital superintelligence.
